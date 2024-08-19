@@ -1,0 +1,21 @@
+安装（NVNGX）
+
+下载并解压缩“文件”页面上列出的 .zip 文件。
+
+双击“DisableNvidiaSignatureChecks.reg”并选择“运行”。在接下来的几个对话框中单击“是”。
+
+找到游戏的安装目录。对于 Cyber​​punk 2077，这将是包含 Cyber​​punk2077.exe 的文件夹。
+
+将“dlssg_to_fsr3_amd_is_better.dll”和新的“nvngx.dll”复制到游戏的安装目录。
+
+完成。启动游戏。游戏的安装目录中将创建一个日志文件。
+
+
+
+卸载（NVNGX）
+
+双击“RestoreNvidiaSignatureChecks.reg”并选择“运行”。在接下来的几个对话框中单击“是”。
+
+删除游戏安装目录中的“dlssg_to_fsr3_amd_is_better.dll”和“nvngx.dll”。
+
+完毕。
